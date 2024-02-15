@@ -1,0 +1,29 @@
+<!-- 3) Crea un documento XML bien formado que almacene una agenda en la que cada contacto tenga un sólo nombre, un solo apellido, y un número aleatorio de emails y teléfonos. -->
+
+<?xml version="1.0" encoding="UTF-8"?>
+<agenda>
+    <contacto>
+        <nombre>Diego</nombre>
+        <apellido>Zamora</apellido>
+        <email>
+            <usuario>dizn</usuario>
+            <dominio>gmail.com</dominio>
+        </email>
+        <email>
+            <usuario>diego.zamora</usuario>
+            <dominio>hotmail.com</dominio>
+        </email>
+        <telefono>123456789</telefono>
+        <telefono>987654321</telefono>
+    </contacto>
+    <contacto>
+        <nombre>Carlos</nombre>
+        <apellido>Alvarez</apellido>
+        <email>
+            <usuario>carlos</usuario>
+            <dominio>gmail.com</dominio>
+        </email>
+        <telefono>123456789</telefono>
+
+    </contacto>
+</agenda>

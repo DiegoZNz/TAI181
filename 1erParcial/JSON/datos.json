@@ -1,0 +1,39 @@
+{
+    "nombre": "Diego",
+    "apellido": "Zamora",
+    "edad": 21,
+    "lenguajes": ["Java", "Python", "JavaScript","sql"],
+    "experiendia": [{
+        "empresa": "google",
+        "anticuedad": 2
+    },
+    {
+        "empresa": "facebook",
+        "anticuedad": 3
+    },
+    {
+        "empresa": "microsoft",
+        "anticuedad": 1
+    }],
+    "domicilio": {
+        "calle": "calle falsa",
+        "numero": 123,
+        "colonia": "centro",
+        "pago_predial": [
+            {
+                "id": 0,
+                "fecha": "2020-01-01"
+                },
+            {
+                "id": 1,
+                "fecha": "2021-01-01"
+                },
+            {
+                "id": 2,
+                "fecha": "2022-01-01"
+                }                
+        ]
+    }
+
+
+}
