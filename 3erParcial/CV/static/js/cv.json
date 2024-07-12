@@ -1,0 +1,61 @@
+{
+    "informacion_personal": {
+      "nombre": "Diego de Jesús Zamora Narváez",
+      "nacionalidad": "Mexicano",
+      "idiomas": ["Español", "Inglés (B2)"],
+      "contacto": {
+        "telefono": "427 182 5978",
+        "correo": "diegozamora89158@gmail.com",
+        "direccion": "El Marqués, Qro.",
+        "repositorio_github": "https://github.com/DiegoZNz",
+        "linkedin": "https://www.linkedin.com/in/diego-dejesus-zamora-narvaez/"
+      }
+    },
+    "educacion": [
+      {
+        "institucion": "Universidad Politécnica de Querétaro",
+        "titulo": "Ingeniería en Sistemas Computacionales",
+        "fecha_inicio": "Agosto 2021",
+        "fecha_fin": "Actualmente"
+      },
+      {
+        "institucion": "Centro de Bachillerato Tecnológico, Industrial y de Servicios (CBTis) 145. 'Venustiano Carranza'",
+        "titulo": "Técnico Bachiller en Programación",
+        "fecha_inicio": "Agosto 2018",
+        "fecha_fin": "Agosto 2021"
+      }
+    ],
+    "experiencia_academica": [
+      {
+        "puesto": "Líder de Proyecto Integrador",
+        "institucion": "Universidad Politécnica de Querétaro",
+        "periodo": "Septiembre 2022 - Actualmente"
+      },
+      {
+        "puesto": "Auxiliar de Mantenimiento",
+        "institucion": "Universidad Politécnica de Querétaro",
+        "periodo": "Septiembre 2022 - Diciembre 2022 (Estancia I)"
+      }
+    ],
+    "proyectos_destacados": [
+      {
+        "nombre": "Hackathon Querétaro Digital 2da edición",
+        "premio": "1er lugar",
+        "descripcion": "Entre 28 equipos, V-My Eyes | Interprete del entorno para personas con discapacidad visual, desarrollado en Python para implementar el modelo de visión artificial YOLOv4, mejorando la precisión de la detección de objetos en tiempo real.",
+        "fecha": "Noviembre 2023"
+      }
+    ],
+    "habilidades": [
+      "Trabajo en equipo y liderazgo",
+      "Iniciativa y responsabilidad",
+      "Comunicación asertiva",
+      "Resolución de problemas",
+      "Desarrollo rápido de prototipos"
+    ],
+    "conocimientos": {
+      "lenguajes_de_programacion": ["Python", "JavaScript", "PHP", "Java"],
+      "bases_de_datos": ["SQL", "Transact-SQL"],
+      "tecnologias_web": ["HTML", "CSS", "Bootstrap"],
+      "frameworks": ["Git", "Laravel 10", "Flask"]
+    }
+  }

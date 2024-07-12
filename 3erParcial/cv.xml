@@ -1,0 +1,83 @@
+<perfil>
+  <informacion_personal>
+    <nombre>Diego de Jesús Zamora Narváez</nombre>
+    <nacionalidad>Mexicano</nacionalidad>
+    <idiomas>
+      <idioma>Español (nativo)</idioma>
+      <idioma>Inglés (B2)</idioma>
+    </idiomas>
+    <contacto>
+      <telefono>427 182 5978</telefono>
+      <correo>diegozamora89158@gmail.com</correo>
+      <direccion>El Marqués, Qro.</direccion>
+      <repositorio_github>https://github.com/DiegoZNz</repositorio_github>
+      <linkedin>https://www.linkedin.com/in/diego-dejesus-zamora-narvaez/</linkedin>
+    </contacto>
+  </informacion_personal>
+  <educacion>
+    <institucion>
+      <nombre>Universidad Politécnica de Querétaro</nombre>
+      <titulo>Ingeniería en Sistemas Computacionales</titulo>
+      <fecha_inicio>Agosto 2021</fecha_inicio>
+      <fecha_fin>Actualmente</fecha_fin>
+    </institucion>
+    <institucion>
+      <nombre>Centro de Bachillerato Tecnológico, Industrial y de Servicios (CBTis) 145. 'Venustiano Carranza'</nombre>
+      <titulo>Técnico Bachiller en Programación</titulo>
+      <fecha_inicio>Agosto 2018</fecha_inicio>
+      <fecha_fin>Agosto 2021</fecha_fin>
+    </institucion>
+  </educacion>
+  <experiencia_academica>
+    <puesto>Líder de Proyecto Integrador</puesto>
+    <institucion>Universidad Politécnica de Querétaro</institucion>
+    <periodo>Septiembre 2022 - Actualmente</periodo>
+  </experiencia_academica>
+  <experiencia_academica>
+    <puesto>Auxiliar de Mantenimiento</puesto>
+    <institucion>Universidad Politécnica de Querétaro</institucion>
+    <periodo>Septiembre 2022 - Diciembre 2022 (Estancia I)</periodo>
+  </experiencia_academica>
+  <proyectos_destacados>
+    <proyecto>
+      <nombre>Hackathon Querétaro Digital 2da edición</nombre>
+      <premio>1er lugar</premio>
+      <descripcion>Entre 28 equipos</descripcion>
+      <fecha>No especificada</fecha>
+    </proyecto>
+    <proyecto>
+      <nombre>V-My Eyes | Interprete del entorno para personas con discapacidad visual</nombre>
+      <descripcion>Desarrollado en Python para implementar el modelo de visión artificial YOLOv4, mejorando la precisión de la detección de objetos en tiempo real.</descripcion>
+      <fecha>Noviembre 2023</fecha>
+    </proyecto>
+  </proyectos_destacados>
+  <habilidades>
+    <habilidad>Trabajo en equipo y liderazgo</habilidad>
+    <habilidad>Iniciativa y responsabilidad</habilidad>
+    <habilidad>Comunicación asertiva</habilidad>
+    <habilidad>Resolución de problemas</habilidad>
+    <habilidad>Desarrollo rápido de prototipos</habilidad>
+  </habilidades>
+  <conocimientos>
+    <lenguajes_de_programacion>
+      <lenguaje>Python</lenguaje>
+      <lenguaje>JavaScript</lenguaje>
+      <lenguaje>PHP</lenguaje>
+      <lenguaje>Java</lenguaje>
+    </lenguajes_de_programacion>
+    <bases_de_datos>
+      <base_de_datos>SQL</base_de_datos>
+      <base_de_datos>Transact-SQL</base_de_datos>
+    </bases_de_datos>
+    <tecnologias_web>
+      <tecnologia>HTML</tecnologia>
+      <tecnologia>CSS</tecnologia>
+      <tecnologia>Bootstrap</tecnologia>
+    </tecnologias_web>
+    <frameworks>
+      <framework>Git</framework>
+      <framework>Laravel 10</framework>
+      <framework>Flask</framework>
+    </frameworks>
+  </conocimientos>
+</perfil>
